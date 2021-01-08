@@ -6,7 +6,7 @@ This project is going to be used in order to learn the video stack and graph sta
 
 **Things to do**
 
-1. Board bring-up Nvidia Nano Jetson
+1. Board bring-up Nvidia Nano Jetson - https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit
 2. Create base project for Computer Vision project
 3. Choose project (Rubik solver?)
 4. Design hardware and software system
