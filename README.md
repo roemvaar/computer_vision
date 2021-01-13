@@ -13,7 +13,7 @@ This project is going to be used in order to learn the video stack and graph sta
 
 [] Create base project for Computer Vision project
 
-[] Choose project - Rubik solver
+[X] Choose project - Rubik solver
 
 [] Design hardware and software system
 
