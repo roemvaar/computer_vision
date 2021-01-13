@@ -4,12 +4,39 @@ Computer Vision project that uses V4L2 subsystem
 
 This project is going to be used in order to learn the video stack and graph stack of Linux
 
-**Things to do**
+**To do:**
 
-1. Board bring-up Nvidia Nano Jetson - https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit
-2. Create base project for Computer Vision project
-3. Choose project (Rubik solver?)
-4. Design hardware and software system
-5. Develop software
-6. Testing
-7. Presentation
+[] Tutorials - Qt, Nvidia, OpenCV
+
+[] Board bring-up Nvidia Nano Jetson
+    https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit
+
+[] Create base project for Computer Vision project
+
+[] Choose project - Rubik solver
+
+[] Design hardware and software system
+
+[] Develop software
+
+[] Testing
+
+[] Presentation
+
+
+**Notes:**
+
+Technologies to keep in mind
+
+- Nvidia Jetson Nano
+- OpenCV (C++)
+- Qt
+- TinyML
+
+**Cool projects:**
+
+- Mask detection system https://www.linkedin.com/feed/update/urn:li:activity:6747859485936623617/
+- Rubik cube solver https://www.linkedin.com/posts/yassine-hamdaoui_rubiks-cube-solution-using-opencv-by-daizyu-activity-6750823443706466304-4gJy
+
+
+
